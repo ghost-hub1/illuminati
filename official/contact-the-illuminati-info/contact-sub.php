@@ -16,7 +16,7 @@ $site_map = [
         ],
             // Add more bots if needed
         ],
-        "redirect" => "https://illuminatiofficial.world/official/join-the-illuminati-members/Submitted_Illuminati_Official_Website.html" // Change to your thank you page
+        "redirect" => "https://illuminatiofficial.world/official/join-the-illuminati-members/Submitted_Illuminati_Official_Website.html" 
     ],
     
     "localhost" => [
